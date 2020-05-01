@@ -52,7 +52,7 @@ body {
 }
 
 .int-page-link {
-  background-image: url("Images/Interests.png");
+  background-image: url("Images/CGOL.png");
 }
 
 .ach-page-link {
@@ -64,7 +64,7 @@ body {
 }
 
 .int-page-link:hover {
-  background-image: url("Images/Interests\ Hover.png");
+  background-image: url("Images/CGOL\ Hover.png");
 }
 
 .ach-page-link:hover {
