@@ -208,3 +208,13 @@ h2 {
 .photo-gallery {
   display: grid;
 }
+
+.cgol-button {
+  background-color: #d4d4d4;
+  color: #6c6c6c;
+  transition-duration: 0.3s;
+}
+
+.cgol-button:hover {
+  background-color: #74dbef;
+}
